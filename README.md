@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">Hi 👋! My name is Aakash and I'm a Engineer, from India</h2>
+<h2 align="left">Hi 👋! My name is Aakash, Just Another Guy in Love with Technology</h2>
 
 ###
 
